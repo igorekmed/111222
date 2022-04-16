@@ -10,7 +10,7 @@ public class Main {
 
         double temperatureKel = 30 + 273.15;
 
-    System.out.print("!!!");
+
         System.out.println( "Температура по Кельвину = " + temperatureKel);
         System.out.println( "Температура по Фаренгейту = " + tempFarengate);
 
